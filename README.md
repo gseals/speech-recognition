@@ -19,23 +19,23 @@ This project follows this [tutorial](https://youtu.be/xHHw3Mw42QI).
 ## Screenshots
 
 ### Landing Page
-![Landing Page]()
+![Landing Page](https://raw.githubusercontent.com/gseals/speech-recognition/master/screenshots/Landing%20Page.png)
 
 ### Application Recording
-![Application Recording]()
+![Application Recording](https://raw.githubusercontent.com/gseals/speech-recognition/master/screenshots/Application%20Recording.png)
 
 
 ### Application Not Recording
-![Application Not Recording]()
+![Application Not Recording](https://raw.githubusercontent.com/gseals/speech-recognition/master/screenshots/Application%20Not%20Recording.png)
 
 
 ### Application Recording a Second Time Within the Same Session
-![Application Recording a Second Time Within the Same Session]()
+![Application Recording a Second Time Within the Same Session](https://raw.githubusercontent.com/gseals/speech-recognition/master/screenshots/Application%20Recording%20a%20Second%20Time%20Within%20the%20Same%20Session.png)
 
 
 ## How to Run
 
-* Clone down this project from [GitHub](https://github.com/gseals/pokemon)
+* Clone down this project from [GitHub](https://github.com/gseals/speech-recognition)
 * Install [http-server](https://www.npmjs.com/package/http-server) from npm.
 * In your browser, navigate to [https://localhost:3000/](https://localhost:3000/)
 
